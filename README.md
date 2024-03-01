@@ -20,7 +20,7 @@ Py_OS is a basic operating system simulation implemented in Python. It provides 
    - Clone this repository to your local machine.
 
    ```bash
-   git clone https://github.com/your-username/Py_OS.git
+   git clone https://github.com/warlord1901t/Py_OS.git
 
 3. **Run the Simulation:**
    - Navigate to the project directory and run the main script.
