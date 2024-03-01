@@ -1,4 +1,4 @@
-# Py_OS - Python Operating System Simulation
+# Py_OS - Python-tkinter Based Operating System Simulation
 
 Py_OS is a basic operating system simulation implemented in Python. It provides a graphical user interface (GUI) with features reminiscent of common operating systems. This project is designed for educational purposes and as a starting point for understanding GUI development in Python.
 
@@ -9,6 +9,7 @@ Py_OS is a basic operating system simulation implemented in Python. It provides 
 - **User Interface (UI):** A graphical user interface with buttons, frames, and drag-and-drop functionality.
 - **Settings and Customization:** Customize the background color and window opacity according to your preferences.
 - **Notification and Navigation:** Receive notifications and navigate through the simulated operating system.
+  
 
 ## Getting Started
 
@@ -21,22 +22,30 @@ Py_OS is a basic operating system simulation implemented in Python. It provides 
 
    ```bash
    git clone https://github.com/warlord1901t/Py_OS.git
+   ```
 
-3. **Run the Simulation:**
+3. **Install the project dependencies:**
+   - Install all the dependencies that are important for Py_OS to work
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+4. **Run the Simulation:**
    - Navigate to the project directory and run the main script.
 
    ```bash
    python main.py
-   
-   or
-   
+   ```
+      or
+   ```bash
    python3 main.py
+   ```
 
-4. **Explore and Customize:**
+5. **Explore and Customize:**
    - Use the file manager, software store, and other features to explore and interact with the simulation.
    - Customize the appearance through the settings options.
-  
-     
+
+
 ## Contributing
 Contributions are welcome! Feel free to open issues or pull requests for improvements or additional features.
 
