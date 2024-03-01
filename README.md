@@ -40,6 +40,7 @@ Py_OS is a basic operating system simulation implemented in Python. It provides 
 ## Contributing
 Contributions are welcome! Feel free to open issues or pull requests for improvements or additional features.
 
+For Contribution Guidelines visit [Contribution-Guidelines.md](https://github.com/warlord1901t/Py_OS/blob/main/Contribution-Guidelines.md)
 
 ## Acknowledgments
 - This project is inspired by the need for educational resources in GUI development using Python.
