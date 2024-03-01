@@ -66,8 +66,5 @@ If you encounter any bugs or have suggestions, please open an issue on the [GitH
 
 Please review and adhere to our [Code of Conduct](CODE_OF_CONDUCT.md).
 
-## License
 
-By contributing to Py_OS, you agree that your contributions will be licensed under the project's [LICENSE](LICENSE).
-
-Thank you for your contributions!
+## Thank you for your contributions! 
