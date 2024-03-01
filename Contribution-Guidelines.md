@@ -8,7 +8,7 @@ Thank you for considering contributing to Py_OS! Contributions are highly valued
 2. Clone your forked repository to your local machine:
 
     ```bash
-    git clone https://github.com/your-username/Py_OS.git
+    git clone https://github.com/warlord1901t/Py_OS.git
     ```
 
 3. Navigate to the project directory:
