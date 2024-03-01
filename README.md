@@ -14,7 +14,7 @@ Py_OS is a basic operating system simulation implemented in Python. It provides 
 
 1. **Prerequisites:**
    - Ensure you have Python installed on your system.
-   - Additional dependencies are listed in the `requirements.md` file.
+   - Additional dependencies are listed in the [requirements.md](https://github.com/warlord1901t/Py_OS/blob/main/requirements.md) file.
 
 2. **Installation:**
    - Clone this repository to your local machine.
