@@ -32,9 +32,6 @@ Py_OS is a basic operating system simulation implemented in Python. It provides 
    
    python3 main.py
 
-
-
-
 4. **Explore and Customize:**
    - Use the file manager, software store, and other features to explore and interact with the simulation.
    - Customize the appearance through the settings options.
