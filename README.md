@@ -9,7 +9,8 @@ Py_OS is a basic operating system simulation implemented in Python. It provides 
 - **User Interface (UI):** A graphical user interface with buttons, frames, and drag-and-drop functionality.
 - **Settings and Customization:** Customize the background color and window opacity according to your preferences.
 - **Notification and Navigation:** Receive notifications and navigate through the simulated operating system.
-  
+
+## Set up manually by downloading files as the method mentioned below is not tested yet (Recommended) 
 
 ## Getting Started
 
